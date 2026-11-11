@@ -1,0 +1,5 @@
+{
+    "Books": true,
+    "Loans": true,
+    "UserManagement": true
+}
